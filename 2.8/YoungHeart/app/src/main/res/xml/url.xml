@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+    <Node
+        Key="getMovieDetail"
+        Expires="300"
+        NetType="get"
+        retryTimes="3"
+        Url="/movie/getmoviedetail" />
+        <!--MockClass="jianqiang.com.youngheart.mockdata.MockMovie" />-->
+
+    <Node
+        Key="registerUser"
+        Expires="0"
+        NetType="post"
+        retryTimes="0"
+        Url="/others/register" />
+
+    <Node
+        Key="sendReport"
+        Expires="0"
+        NetType="post"
+        retryTimes="0"
+        Url="/others/sendReport" />
+
+
+    <Node
+        Key="getMovieList"
+        Expires="300"
+        NetType="get"
+        retryTimes="3"
+        Url="/movie/getMovieList" />
+
+</url>
+

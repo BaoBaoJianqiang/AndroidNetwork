@@ -1,0 +1,138 @@
+{
+    "android_gradle_plugin_version": "2.3.0",
+    "apk_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/build/outputs/apk/app-debug.apk",
+    "auto_dependency": true,
+    "build_cache_dir": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/build/freeline",
+    "build_directory": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/build",
+    "build_script": "./gradlew :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "/Users/jianqiang/Library/Android/sdk/build-tools/25.0.2",
+    "build_tools_version": "25.0.2",
+    "check_sources_md5": [
+        
+    ],
+    "compile_sdk_directory": "/Users/jianqiang/Library/Android/sdk/platforms/android-25",
+    "compile_sdk_version": "android-25",
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "jianqiang.com.youngheart",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart",
+    "freeline_gradle_plugin_version": "0.8.7",
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "java_home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home",
+    "launcher": "jianqiang.com.youngheart.activity.others.MainActivity",
+    "main_assets_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/assets",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/assets"
+    ],
+    "main_jniLibs_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/jniLibs",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/jniLibs"
+    ],
+    "main_jni_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/jni",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/jni"
+    ],
+    "main_manifest_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/build/generated/source/r/debug/R.java",
+    "main_res_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/res",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/res"
+    ],
+    "main_src_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/java",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/java"
+    ],
+    "module_dependencies": {
+        "app": [
+            "mylibrary"
+        ],
+        "mylibrary": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app"
+        },
+        {
+            "name": "mylibrary",
+            "path": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary"
+        }
+    ],
+    "package": "jianqiang.com.youngheart",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/assets",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/jniLibs",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/jni",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/res",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/debug/java",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart/app/src/main/java"
+            ]
+        },
+        "mylibrary": {
+            "main_assets_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/release/assets",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/release/jniLibs",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/release/jni",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/release/res",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/release/java",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/mylibrary/src/main/java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "root_dir": "/Users/jianqiang/Documents/Training/code/Android/AndroidC1/2.10/YoungHeart",
+    "sdk_directory": "/Users/jianqiang/Library/Android/sdk",
+    "use_jdk8": true,
+    "use_system_gradle": false
+}
